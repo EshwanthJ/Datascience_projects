@@ -4,11 +4,11 @@
 This project aims to analyze a dataset of chess games to uncover insights and patterns within the data. The analysis focuses on understanding the number of games, the dependency of results on various factors, and visualizing key trends.
 
 ## Table of Contents
-1. [Number of Games](#number-of-games)
-    - 1.1 [Number of Games Online vs Number of Games Offline](#number-of-games-online-vs-number-of-games-offline)
-2. [Dependency of Result](#dependency-of-result)
-    - 2.1 [Result vs Colors](#result-vs-colors)
-    - 2.2 [Result vs ELO](#result-vs-elo)
+1. [Number of Games](#1-number-of-games)
+    - 1.1 [Number of Games Online vs Number of Games Offline](#11-number-of-games-online-vs-number-of-games-offline)
+2. [Dependency of Result](#2-dependency-of-result)
+    - 2.1 [Result vs Colors](#21-result-vs-colors)
+    - 2.2 [Result vs ELO](#22-result-vs-elo)
 
 ## 1. Number of Games
 ### 1.1 Number of Games Online vs Number of Games Offline
